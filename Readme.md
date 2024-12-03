@@ -31,7 +31,7 @@ HTML, CSS, JavaScript
 
 # Clone the repository:
    ```
-   git clone https://github.com/yourusername/weather-report-app.git
+   git clone https://github.com/meghanasukeerthi/WeatherForecast.git
     cd weather-report-app
 ```
 
